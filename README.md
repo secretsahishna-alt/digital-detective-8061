@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-MIssion Digital Detective-explore your computer
+<<<<<<< Mission Digital Detective-explore your computer
 USN:2402608061
 mission-00-setup/README.md 
 mission-01-computer-basics/README.md
