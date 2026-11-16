@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MIssion Digital Detective-explore your computer
 USN:2402608061
 mission-00-setup/README.md 
@@ -9,3 +10,6 @@ mission-06-git-github/README.md
 mission-07-networking
 mission-08-final-report
 Each mission is done seperately and commited differently
+=======
+# digital-detective-8061
+>>>>>>> 0d8c065a4a612a065a4959c87cf26caf2c91c8f3
