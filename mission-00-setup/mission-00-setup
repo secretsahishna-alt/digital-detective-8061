@@ -1,0 +1,9 @@
+1.Task completed 
+2.Respository Name:digital-detective-8061 
+3.Tools checked 
+4.git version :git version 2.54.0 (Apple Git-157) 
+5.python3 version:Python 3.9.6  
+6.Folders and files created.
+7.Repository-Repository store version of folders by which various developers can collaborate on project manage and trach files and changes made.
+8.The folder structure is organised as mission to map them to various modules learnt.These mission keeps changes and files seperatedaccording to different tasks and makes it easy to manage.
+9.Setup Diificulty:I had accidently made an README.MD while making the respository and while adding my files i got stuck because i did not know how to delete it so i had to use command(git pull --no-rebase origin main --allow-unrelated-histories)which helped me in not rebasing but merging my local version on github and since they shared no common history altogether i used  unrelated history specified.
