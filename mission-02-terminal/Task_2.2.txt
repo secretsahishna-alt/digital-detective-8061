@@ -1,0 +1,4 @@
+What is the difference between copying a file and moving a file? Ans:Copying the file we create a duplicate file using cp command while moving we change location of the file or rename both using mv command 2.2.txt
+What information does the current-directory display provide? Ans:pwd shows the path of the current directory we are in. 2.2.txt
+Why is a directory-listing operation useful? Ans:ls the command used to show files is very useful as it can show all the contents in the folder with addons the memory usage the permissions and everything can be seen 2.2.txt
+What is the difference between replacing a files contents and adding text to the end? Ans:replacing file can be done using single arrows >,else for appending text we can use double arrows >> 
