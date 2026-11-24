@@ -8,3 +8,4 @@
 | Printer | Hardware | - | Prints documents. |
 | Windows | Software | Operating System | Manages computer hardware and software. |
 | Keynote| Software | Application Software | Helps to make Presentation. |
+|||||
